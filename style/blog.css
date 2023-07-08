@@ -1,0 +1,31 @@
+.h2{
+    text-align: center;
+    background-color: beige;
+    color: black;
+    font-family: fantasy;
+    padding: 5px;
+}
+.jamal{
+    text-align: center;
+    color: darkorange;
+    font-family: cursive
+}
+img{
+    border: 1px solid white;
+    border-radius: 4px;
+    box-shadow: 1px 2px 4px;
+    padding: 5px;
+    width: 1240px;
+    height: 500px;
+
+}
+div{
+    background-color: beige;
+    color: black;
+}
+label{
+    display: block;
+    margin-bottom: 15px;
+    background-color:whitesmoke;
+
+}
